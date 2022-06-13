@@ -1,0 +1,1 @@
+- pages folder is furthur nested for each base component, since each component is furthur using multiple child components
